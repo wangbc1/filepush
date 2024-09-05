@@ -1,0 +1,8 @@
+Remote:
+  - Host: 192.168.10.10
+    Port: 22
+    User: root
+    Passwd: Huawei12#$
+    Path: /data/logs
+Local:
+  - Path: /app/remote
